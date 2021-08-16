@@ -1,6 +1,13 @@
 # Recursos
 Recursos utiles durante el aprendizaje y desarrollo con el lenguaje Javascript para y por la comunidad Javascript Ecuador
 
+
+## Tutoriales
+
+| Título | Descripción | Idioma |
+|--------|-------------|--------|
+| [hey(node)](https://heynode.com/) | Descripción, Tutoriales para aprender Node.js, un trabajo de Osio Labs | Inglés |
+
 ## Buenas practicas
 
 | Título | Descripción | Idioma |
